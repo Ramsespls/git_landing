@@ -4,8 +4,12 @@ body {
 
 .container {
   padding-top: 30px;
-} 
-  
+}
+
+.logo {
+  opacity: 0.12; /* Cambia el valor según tu preferencia (0 es completamente transparente, 1 es completamente opaco) */
+  filter: invert(100%);
+}
 h1 {
   color: #fff;
   font-family: 'Space Mono', monospace;
