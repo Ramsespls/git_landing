@@ -7,8 +7,8 @@ body {
 }
 
 .logo {
-  opacity: 0.12; /* Cambia el valor según tu preferencia (0 es completamente transparente, 1 es completamente opaco) */
-  filter: invert(100%);
+  opacity: 0.11; /* Cambia el valor según tu preferencia (0 es completamente transparente, 1 es completamente opaco) */
+  filter: invert(86.3%);
 }
 h1 {
   color: #fff;
